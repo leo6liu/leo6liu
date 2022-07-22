@@ -17,3 +17,25 @@ Other than those, here's some more general information:
 Half-Asian (mother from Taiwan). Half-Caucasian (father from Mississippi).
 
 ## Education
+
+Bachelor's of Science in Electrical Engineering from Temple University (`4.00` GPA 😋)
+
+## Favorite Software Engineering (SWE) Technologies
+
+`Deno, Go, POSIX shell, HPC, UI/UX, Web Dev, React, Tailwind.`
+
+## Hobbies
+
+Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗‍♂️, Swimming🏊‍♂️.
+
+## Work History
+
+- **Android Developer**: - `Kotlin, Java` - _Aim Research Company_ `2019`
+- **Backend SWE creating microservices to respond to Slack events**: - `Node.js, containerization, CI/CD` - _Lockheed Martin_ `2020`
+- **HPC Cluster System Administrator**: - `CentOS Linux, shell scripting` - _Neural Engineering Data Consortium_ `2020`
+- **Drug Discovery ML Researcher**: - `Python, TensorFlow` - _Computational Molecular Design & Metabolics Lab_ `2020`
+- **Full-Stack SWE**: - `Java Spring Boot, H2 Database, React` - _JPMorgan Chase & Co._ `2021`
+
+## Publications
+
+https://doi.org/10.1093/bib/bbab377
