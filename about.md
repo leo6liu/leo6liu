@@ -24,7 +24,7 @@ Bachelor's of Science in Electrical Engineering from Temple University (`4.00` G
 
 Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗‍♂️, Swimming🏊‍♂️.
 
-### Favorite Software Engineering (SWE) Technologies
+### Favorite Software Engineering Technologies/Topics
 
 `Deno`, `Go`, `POSIX shell`, `CUDA`, `HPC`, `UI/UX`, `Web Dev`, `React`, `Tailwind`.
 
