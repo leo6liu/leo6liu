@@ -26,7 +26,7 @@ Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗
 
 ## Favorite Software Engineering (SWE) Technologies
 
-`Deno, Go, POSIX shell, HPC, UI/UX, Web Dev, React, Tailwind.`
+`Deno`, `Go`, `POSIX shell`, `HPC`, `UI/UX`, `Web Dev`, `React`, `Tailwind`.
 
 ## Work History
 
