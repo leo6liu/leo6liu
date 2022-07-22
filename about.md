@@ -10,25 +10,25 @@ I'm most proud of my little web-dev projects! Here are a few:
 
 - **AlgoSim** (https://algosim.subparprogramming.org/algo-v1): A UI and backend which allows users to simulate custom on-the-minute trading algorithms on historical stock data. It's backend is written in `Go`, it's frontend uses `create-react-app`, and they're both deployed to GCP Cloud Run using GitHub Actions (for CI/CD).
 
-Other than those, here's some more general information:
+Other than those, here's some more general information about me:
 
-## Race/Ethnicity
+### Race/Ethnicity
 
 Half-Asian (mother from Taiwan). Half-Caucasian (father from Mississippi).
 
-## Education
+### Education
 
 Bachelor's of Science in Electrical Engineering from Temple University (`4.00` GPA 😋)
 
-## Hobbies
+### Hobbies
 
 Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗‍♂️, Swimming🏊‍♂️.
 
-## Favorite Software Engineering (SWE) Technologies
+### Favorite Software Engineering (SWE) Technologies
 
 `Deno`, `Go`, `POSIX shell`, `HPC`, `UI/UX`, `Web Dev`, `React`, `Tailwind`.
 
-## Work History
+### Work History
 
 - **Android Developer**: - `Kotlin, Java` - _Aim Research Company_ `2019`
 - **Backend SWE creating microservices to respond to Slack events**: - `Node.js, containerization, CI/CD` - _Lockheed Martin_ `2020`
