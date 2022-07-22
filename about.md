@@ -26,7 +26,7 @@ Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗
 
 ### Favorite Software Engineering (SWE) Technologies
 
-`Deno`, `Go`, `POSIX shell`, `HPC`, `UI/UX`, `Web Dev`, `React`, `Tailwind`.
+`Deno`, `Go`, `POSIX shell`, `CUDA`, `HPC`, `UI/UX`, `Web Dev`, `React`, `Tailwind`.
 
 ### Work History
 
@@ -36,6 +36,6 @@ Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗
 - **Drug Discovery ML Researcher** - `Python, TensorFlow` - _Computational Molecular Design & Metabolics Lab_ `2020`
 - **Full-Stack SWE** - `Java Spring Boot, H2 Database, React` - _JPMorgan Chase & Co._ `2021`
 
-## Publications
+## Publication(s)
 
 https://doi.org/10.1093/bib/bbab377
