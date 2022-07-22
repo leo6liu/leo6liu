@@ -20,13 +20,13 @@ Half-Asian (mother from Taiwan). Half-Caucasian (father from Mississippi).
 
 Bachelor's of Science in Electrical Engineering from Temple University (`4.00` GPA 😋)
 
-## Favorite Software Engineering (SWE) Technologies
-
-`Deno, Go, POSIX shell, HPC, UI/UX, Web Dev, React, Tailwind.`
-
 ## Hobbies
 
 Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗‍♂️, Swimming🏊‍♂️.
+
+## Favorite Software Engineering (SWE) Technologies
+
+`Deno, Go, POSIX shell, HPC, UI/UX, Web Dev, React, Tailwind.`
 
 ## Work History
 
