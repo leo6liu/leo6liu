@@ -30,11 +30,11 @@ Table Tennis🏓, Running🏃‍♂️, League of Legends💻, Rock Climbing🧗
 
 ### Work History
 
-- **Android Developer**: - `Kotlin, Java` - _Aim Research Company_ `2019`
-- **Backend SWE creating microservices to respond to Slack events**: - `Node.js, containerization, CI/CD` - _Lockheed Martin_ `2020`
-- **HPC Cluster System Administrator**: - `CentOS Linux, shell scripting` - _Neural Engineering Data Consortium_ `2020`
-- **Drug Discovery ML Researcher**: - `Python, TensorFlow` - _Computational Molecular Design & Metabolics Lab_ `2020`
-- **Full-Stack SWE**: - `Java Spring Boot, H2 Database, React` - _JPMorgan Chase & Co._ `2021`
+- **Android Developer** - `Kotlin, Java` - _Aim Research Company_ `2019`
+- **Backend SWE creating microservices to respond to Slack events** - `Node.js, containerization, CI/CD` - _Lockheed Martin_ `2020`
+- **HPC Cluster System Administrator** - `CentOS Linux, shell scripting` - _Neural Engineering Data Consortium_ `2020`
+- **Drug Discovery ML Researcher** - `Python, TensorFlow` - _Computational Molecular Design & Metabolics Lab_ `2020`
+- **Full-Stack SWE** - `Java Spring Boot, H2 Database, React` - _JPMorgan Chase & Co._ `2021`
 
 ## Publications
 
